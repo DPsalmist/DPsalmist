@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Damilare Samuel</h1>
-<h3 align="center">AI/ML Engineer | Python Backend Specialist | STEM Educator | AI Researcher</h3>
+<h3 align="center">AI/ML Engineer | Python Backend Engineer | STEM Educator | AI Researcher</h3>
 
 <p align="center">
   <em>Making AI practical, one line of Python at a time.</em>
@@ -52,8 +52,8 @@ Currently building **StockSmartAI** — a smart demand forecasting platform for 
 ## 📌 Pinned Projects
 
 <p align="center">
-  [Data Ingestion]<a href="https://github.com/DPsalmist/Real-Time-Wikipedia-Data-Streaming-Using-PubNub-API">
-    
+  [Data Ingestion](<a href="https://github.com/DPsalmist/Real-Time-Wikipedia-Data-Streaming-Using-PubNub-API">)
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DPsalmist&repo=LiverDiseasePrediction&theme=default" />
   </a>
   [Liver Prediction]<a href="https://github.com/DPsalmist/LiverDiseasePrediction">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DPsalmist&repo=LiverDiseasePrediction&theme=default" />
