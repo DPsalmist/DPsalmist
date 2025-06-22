@@ -52,12 +52,11 @@ Currently building **StockSmartAI** — a smart demand forecasting platform for 
 ## 📌 Pinned Projects
 
 <p align="center">
-  [Data Ingestion](<a href="https://github.com/DPsalmist/Real-Time-Wikipedia-Data-Streaming-Using-PubNub-API">)
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DPsalmist&repo=LiverDiseasePrediction&theme=default" />
-  </a>
-  [Liver Prediction]<a href="https://github.com/DPsalmist/LiverDiseasePrediction">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DPsalmist&repo=LiverDiseasePrediction&theme=default" />
-  </a>
+  1. Data Ingestion: (https://github.com/DPsalmist/Real-Time-Wikipedia-Data-Streaming-Using-PubNub-API) <br>
+  2. Road Accident Analysis: (href="https://github.com/DPsalmist/road_accident_analysis_streamlit) <br>
+  3. Bank Transaction Simulation: (href="https://github.com/DPsalmist/Bank-Transaction-Simulation) <br>
+  4. Diabetes Prediction in R: (href="https://github.com/DPsalmist/Diabetes-Prediction-in-R) <br>
+  5. Medical Image Segmentation: (href="https://github.com/DPsalmist/Medical-Image-Segmentation-project-using-U-Net)
 </p>
 
 ---
